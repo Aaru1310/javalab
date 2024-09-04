@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://
+
+git pull origin master
+
+git add .
+
+git commit -m "tell me what you did"
+
+git push origin master
