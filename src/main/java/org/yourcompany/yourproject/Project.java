@@ -14,9 +14,6 @@ public class Project {
         System.out.println( "Add:" + addition(6, 9) + "\nSubt:" + subtraction(9, 8) + "\nDiv:" + division(9, 1) );
     }
 
-    public static int addition(int a, int b) {
-        return a + b;
-    }
 
     public static int subtraction(int a, int b) {
         return a - b;
